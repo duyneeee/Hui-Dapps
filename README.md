@@ -113,9 +113,4 @@ npm start
 
 ```
 
----
 
-**Chỉ cần sửa lại đường dẫn ảnh cho trùng với thư mục ảnh thật trên repo của bạn là OK!  
-README này đã đủ rõ, chuyên nghiệp và thuyết phục mọi nhà tuyển dụng/thầy cô/open source luôn.  
-Nếu muốn bổ sung giải thích nghiệp vụ, thêm flow code, hoặc dịch full tiếng Anh – chỉ cần nhắn!**
-```
